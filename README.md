@@ -1,2 +1,3 @@
-# Coin_Display
-A web application that uses Ruby, Go and JavaScript. The gimmick of this website is to use cute designs for the users to display cryptocurrency data. .
+# Coin_Display_2.0
+Web application built using the MERN(MongoDB,Express, React, Nodejs) stack. Displays prices and graphs of specific cryptocurrencies.
+Currently working on trying to get the prices to update live as well as the enhancing the UI/UX.  
